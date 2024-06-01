@@ -4,7 +4,7 @@ a =10
 b =20
 
 def sum(a,b):
-    c = a+b 
-    return c 
+    x = a+b 
+    return x
 
 print(a,b)
