@@ -3,4 +3,8 @@
 a =10
 b =20
 
-print(a+b)
+def sum(a,b):
+    c = a+b 
+    return c 
+
+print(a,b)
